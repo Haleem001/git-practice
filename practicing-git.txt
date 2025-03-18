@@ -1,0 +1,5 @@
+Things I learnt:
+1. Version Control
+2. Git Commands
+3. Github
+4. Git Bash
